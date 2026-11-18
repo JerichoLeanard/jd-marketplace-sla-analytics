@@ -1,0 +1,41 @@
+{
+  "name": "JD Executive SLA & Unit Economics",
+  "dataColors": [
+    "#1B365D",
+    "#4C72B0",
+    "#C44E52",
+    "#FF7F0E",
+    "#2CA02C",
+    "#7A8B99",
+    "#2B8CBE",
+    "#D95F02"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B365D",
+  "tableAccent": "#1B365D",
+  "good": "#2CA02C",
+  "neutral": "#FF7F0E",
+  "bad": "#C44E52",
+  "textClasses": {
+    "callout": {
+      "fontSize": 22,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1B365D"
+    },
+    "title": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1B365D"
+    },
+    "header": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1B365D"
+    },
+    "label": {
+      "fontSize": 9,
+      "fontFace": "Segoe UI",
+      "color": "#5A6877"
+    }
+  }
+}
